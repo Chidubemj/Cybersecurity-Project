@@ -1,2 +1,2 @@
-# Cybersecurity-Project
-This GitHub portfolio showcases my cybersecurity expertise, with projects in SOC operations, threat intelligence, threat hunting, and compliance. It highlights hands-on skills in securing systems, threat analysis, and SOC 2/ISO 27001 compliance, demonstrating proactive risk mitigation in dynamic digital environments.
+# SOC-PROJECT.
+This project enhances security monitoring at 10ALYTICS-DC by leveraging Wazuh to detect and respond to unauthorized Netcat processes, a common tool for data exfiltration and backdoors. The solution involves deploying Wazuh for real-time process monitoring, generating alerts for suspicious activities, and implementing active responses to terminate malicious processes. Alerts are integrated with Slack for real-time notifications.
